@@ -38,3 +38,5 @@ Window 10 Pro
 # 2D 모델링 정보
 구글
 
+# 플레이 영상
+https://www.youtube.com/watch?v=CUYTcx-Bv44
